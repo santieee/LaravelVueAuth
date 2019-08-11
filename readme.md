@@ -12,3 +12,4 @@
 <p>npm i</p>
 <p>composer update</p>
 <p>php artisan key:generate</p>
+<p>generate passport key</p>
