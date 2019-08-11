@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+a:hover{
+	text-decoration: none;
+}
+
+.v-app-bar__nav-icon:focus{
+	outline: none;
+}
+
+/*.theme--dark.v-application*/
