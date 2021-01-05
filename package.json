@@ -10,7 +10,7 @@
     "watch-poll": "npm run watch -- --watch-poll"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "js-cookie": "^2.2.1",
     "resolve-url-loader": "^3.1.0",
     "vue-router": "^3.0.7",
